@@ -1,6 +1,7 @@
 # 自定义的规则
 DOMAIN-SUFFIX,iopq.net
 DOMAIN-SUFFIX,browserbench.org
+DOMAIN-SUFFIX,famobi.com
 
 # Steam 社区 / 商店功能
 DOMAIN,gsa.apple.com
@@ -42,6 +43,7 @@ DOMAIN,steamcloud-singapore.storage.googleapis.com
 DOMAIN,steamcloud-sydney.storage.googleapis.com
 DOMAIN,steamcloud-taiwan.storage.googleapis.com
 DOMAIN,steamcloud-eu.storage.googleapis.com
+
 
 
 
