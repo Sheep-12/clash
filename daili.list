@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,dnaav.com
 DOMAIN-SUFFIX,twstalker.com
 DOMAIN-SUFFIX,sexygirl.cc
 DOMAIN-SUFFIX,x1hub.com
+DOMAIN-SUFFIX,marshallsv.com
 
 # Steam 社区 / 商店功能
 DOMAIN,gsa.apple.com
@@ -50,6 +51,7 @@ DOMAIN,steamcloud-singapore.storage.googleapis.com
 DOMAIN,steamcloud-sydney.storage.googleapis.com
 DOMAIN,steamcloud-taiwan.storage.googleapis.com
 DOMAIN,steamcloud-eu.storage.googleapis.com
+
 
 
 
