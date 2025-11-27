@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,marshallsv.com
 DOMAIN-SUFFIX,xmorex.com
 DOMAIN-SUFFIX,freeshare666.cc
 DOMAIN-SUFFIX,biqumh.com
+DOMAIN-SUFFIX,baozimh.com
 
 # Steam 社区 / 商店功能
 DOMAIN,gsa.apple.com
@@ -54,6 +55,7 @@ DOMAIN,steamcloud-singapore.storage.googleapis.com
 DOMAIN,steamcloud-sydney.storage.googleapis.com
 DOMAIN,steamcloud-taiwan.storage.googleapis.com
 DOMAIN,steamcloud-eu.storage.googleapis.com
+
 
 
 
