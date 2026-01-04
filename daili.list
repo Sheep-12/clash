@@ -15,6 +15,13 @@ DOMAIN-SUFFIX,freeshare666.cc
 DOMAIN-SUFFIX,biqumh.com
 DOMAIN-SUFFIX,baozimh.com
 DOMAIN-SUFFIX,baozicdn.com
+# NIKKE规则
+DOMAIN-SUFFIX,nikke-kr.com
+DOMAIN-SUFFIX,intlgame.com
+DOMAIN,na-community.playerinfinite.com
+DOMAIN,na.fleetlogd.com
+DOMAIN,jupiterlauncher.com
+DOMAIN,sentry.io
 # Steam 社区 / 商店功能
 DOMAIN,gsa.apple.com
 DOMAIN,steamcommunity.com
@@ -55,6 +62,7 @@ DOMAIN,steamcloud-singapore.storage.googleapis.com
 DOMAIN,steamcloud-sydney.storage.googleapis.com
 DOMAIN,steamcloud-taiwan.storage.googleapis.com
 DOMAIN,steamcloud-eu.storage.googleapis.com
+
 
 
 
