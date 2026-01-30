@@ -16,13 +16,10 @@ DOMAIN-SUFFIX,biqumh.com
 DOMAIN-SUFFIX,baozimh.com
 DOMAIN-SUFFIX,baozicdn.com
 DOMAIN-SUFFIX,happymh.com
-# NIKKE规则
-DOMAIN-SUFFIX,nikke-kr.com
-DOMAIN-SUFFIX,intlgame.com
-DOMAIN,na-community.playerinfinite.com
-DOMAIN,na.fleetlogd.com
-DOMAIN,jupiterlauncher.com
-DOMAIN,sentry.io
+
+# --- Edge Copilot 域名
+DOMAIN,edge.microsoft.com
+
 # Steam 社区 / 商店功能
 DOMAIN,gsa.apple.com
 DOMAIN,steamcommunity.com
