@@ -18,14 +18,14 @@ DOMAIN-SUFFIX,baozicdn.com
 DOMAIN-SUFFIX,happymh.com
 
 # --- Edge Copilot 域名
-DOMAIN-SUFFIX,edge.microsoft.com
-DOMAIN,www.bingapis.com
-DOMAIN,edge-consumer-static.azureedge.net
-DOMAIN,substrate.office.com
-DOMAIN,skydrive.wns.windows.com
+# DOMAIN-SUFFIX,edge.microsoft.com
+# DOMAIN,www.bingapis.com
+# DOMAIN,edge-consumer-static.azureedge.net
+# DOMAIN,substrate.office.com
+# DOMAIN,skydrive.wns.windows.com
 DOMAIN,fd.api.iris.microsoft.com
 DOMAIN,config.edge.skype.com
-DOMAIN,graph.microsoft.com
+# DOMAIN,graph.microsoft.com
 DOMAIN,mobile.events.data.microsoft.com
 
 # Steam 社区 / 商店功能
