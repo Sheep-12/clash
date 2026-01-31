@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,happymh.com
 
 # --- Edge Copilot 域名
 DOMAIN,edge.microsoft.com
+DOMAIN,www.bingapis.com
 
 # Steam 社区 / 商店功能
 DOMAIN,gsa.apple.com
