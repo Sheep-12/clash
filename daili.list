@@ -21,6 +21,7 @@ DOMAIN-SUFFIX,happymh.com
 DOMAIN-SUFFIX,edge.microsoft.com
 DOMAIN,www.bingapis.com
 DOMAIN,edge-consumer-static.azureedge.net
+DOMAIN,substrate.office.com
 
 # Steam 社区 / 商店功能
 DOMAIN,gsa.apple.com
