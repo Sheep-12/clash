@@ -24,6 +24,7 @@ DOMAIN,edge-consumer-static.azureedge.net
 DOMAIN,substrate.office.com
 DOMAIN,skydrive.wns.windows.com
 DOMAIN,fd.api.iris.microsoft.com
+DOMAIN,config.edge.skype.com
 
 # Steam 社区 / 商店功能
 DOMAIN,gsa.apple.com
